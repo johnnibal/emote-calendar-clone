@@ -20,8 +20,4 @@
   border-radius: 999px;
 }
 
-.react-calendar__navigation__next-button:enabled:hover,
-.react-calendar__navigation__next-button:enabled:focus {
-  background: none !important;
-  box-shadow: none !important;
-}
+
